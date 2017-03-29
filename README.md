@@ -4,7 +4,7 @@ Snake game made on processing
 -------------------- Programmers --------------------
 
 Mohit Sharma
-Christian Sanchez
+Christian Sanchez  - @christian-sanchez114
 Danil Vorobjov
 
 *Free to use and play, however please give credit*
